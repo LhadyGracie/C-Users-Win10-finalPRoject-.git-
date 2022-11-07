@@ -3,7 +3,7 @@ body{
 }
 
 .card-panel{
-    height: 500px; /* play around with this number until you get the height you need */
+    height: 600px; /* play around with this number until you get the height you need */
     width: auto;
     max-width: 100%;
 }
