@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(201, 10, 99);
+}
+
+.card-panel{
+    height: 500px; /* play around with this number until you get the height you need */
+    width: auto;
+    max-width: 100%;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    
+ }
+ footer hr{
+    color: rgb(201, 10, 99);
+ }
